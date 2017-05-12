@@ -8,7 +8,7 @@ let amp = new p5.Amplitude();
 
 function preload() {
     // Used to make the song ready to be played once p5 starts.
-    song = loadSound("songs/bang.mp3");
+    song = loadSound("songs/wayUp.mp3");
 }
 
 function setup() {
